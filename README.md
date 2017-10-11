@@ -14,6 +14,8 @@ Camera ip 2cu
 Camera ip Gviews
 Camera ip Gdxpro
 
+Sau khi tải về -> Giải nén ra -> Chạy file CMSClient.exe để khởi động chương trình.
+
 Website hỗ trợ:
 http://cameravietnam.org
 Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC
