@@ -23,6 +23,5 @@ Kênh Facebook hỗ trợ: https://www.facebook.com/cameravietnam.org
 
 Website hỗ trợ: http://cameravietnam.org
 
-Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC
-
+Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC 
 http://cameravietnam.org/news/huong-dan/huong-dan-nhanh-su-dung-phan-mem-cms-camera-pc-13.html
