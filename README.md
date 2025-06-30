@@ -18,4 +18,4 @@ Website hỗ trợ:
 http://CuaHangCamera.com
 
 Hướng dẫn nhanh sử dụng phần mềm CMS Camera PC
-http://CuaHangCamera.com/news/huong-dan/huong-dan-nhanh-su-dung-phan-mem-cms-camera-pc-13.html
+https://cuahangcamera.com/news/thong-bao/thong-bao-phat-hanh-cms-camera-yoosee-vip-phien-ban-version-1-00-00-52-19.html
